@@ -34,8 +34,7 @@ The project allows users to:
 
 ## 📡 API Architecture
 
-The backend exposes the following endpoints (base path:
-`https://o4fjb5rine.execute-api.us-east-1.amazonaws.com/api`):
+The backend exposes the following endpoints:
 
 | Method   | Endpoint                        | Description                                                                                                           |
 | -------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
